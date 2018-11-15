@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://down277.oss-cn-shanghai.aliyuncs.com/down/277Logo.png?raw=true</string>
+					<string>https://down277.oss-cn-shanghai.aliyuncs.com/down/277.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://down277.oss-cn-shanghai.aliyuncs.com/down/277Logo.png?raw=true</string>
+					<string>https://down277.oss-cn-shanghai.aliyuncs.com/down/277.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
